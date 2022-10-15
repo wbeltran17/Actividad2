@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Actividad #2</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="calling">Llamando...</string>
+    <string name="proyect6">Proyecto006</string>
+    <string name="proyect7">Proyecto007</string>
+    <string name="proyect8">Proyecto008</string>
+    <string name="touch">tocame!</string>
+    <string name="touch1">deja de tocarme!</string>
+    <string name="touch2">dejame quieto!!!!</string>
+    <string name="touch3">¡¡Ufff... por fin me hiciste caso!!!</string>
+</resources>
